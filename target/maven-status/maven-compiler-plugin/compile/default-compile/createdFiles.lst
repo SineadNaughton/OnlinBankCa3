@@ -1,0 +1,14 @@
+com\mycompany\onlinebankca3\model\Transaction.class
+com\mycompany\onlinebankca3\resources\AccountResource.class
+com\mycompany\onlinebankca3\model\ResponseCustomer.class
+com\mycompany\onlinebankca3\mockdatabase\MockDatabase.class
+com\mycompany\onlinebankca3\model\ResponseAccount.class
+com\mycompany\onlinebankca3\model\Link.class
+com\mycompany\onlinebankca3\model\Customer.class
+com\mycompany\onlinebankca3\model\ResponseTransaction.class
+com\mycompany\onlinebankca3\resources\CustomerResource.class
+com\mycompany\onlinebankca3\model\Account.class
+com\mycompany\onlinebankca3\resources\TransactionResource.class
+com\mycompany\onlinebankca3\services\CustomerService.class
+com\mycompany\onlinebankca3\services\AccountService.class
+com\mycompany\onlinebankca3\services\TransactionService.class
